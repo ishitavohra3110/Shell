@@ -1,4 +1,4 @@
-1. To run the shell :
+# 1. To run the shell :
 	make
 	./a.out
 
@@ -40,7 +40,8 @@
 16. quit : Shell quits
 
 17. All piping commands,redirection and piping with redirection works
-FILES :
+
+## FILES :
 
 1. main.c : The main loop of the program.
 2. compare.c : When user gives an input it calls the function accordingly
