@@ -46,11 +46,19 @@
 ## FILES :
 
 1. main.c : The main loop of the program.
-2. compare.c : When user gives an input it calls the function accordingly
-3. function.c : Contains function for pwd and pinfo
-4.ls.c : executes ls command
-5.read.c : reads the user input and parses the command
-6.prompt.c : Displays the prompt,executes the cd command and gets a particular directory(for the ls command)
+
+2. compare.c : When user gives an input it calls the function accordingly.
+
+3. function.c : Contains function for pwd and pinfo.
+
+4.ls.c : executes ls command.
+
+5.read.c : reads the user input and parses the command.
+
+6.prompt.c : Displays the prompt,executes the cd command and gets a particular directory(for the ls command).
+
 7.bg_fg.c : For running background and foreground process and a function will print the exit condition when background process has ended.
+
 8.piping.c : For running all piped commands and running piped commands with redirection.
+
 9.redir.c : For running input and output redirection 
