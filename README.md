@@ -1,19 +1,20 @@
-# 1. To run the shell :
+## 1. To run the shell :
 	make
 	./a.out
 
-2. Built-in Commands:
-	echo : printing in the command line
+## Built-in Commands:
+2. 	echo : printing in the command line
 	pwd : absolute path of the current directory
 	cd : change the current directory
 		cd .. -> changes to the previous directory
 		cd . -> directory remains same
 		cd <path> -> will change to that path
 		cd ~ -> will bring you to the home directory
+## Other Commands
 
-3. ls : list directory contents(flags which can be given -l,-a,-la,-al,)
+3. ls : list directory contents(flags which can be given -l,-a,-la,-al,-a -l)
 
-4. Foreground Process and Background Processes (ending with "&") have been implemented
+4. Foreground Process and Background Processes (ending with "&") 
 
 5. pinfo : Gives Pid,status,Virtual Memeory and Executable path of the given process
 
@@ -21,7 +22,7 @@
 
 7. reminder : remindme <time interval> <label> 
 
-8. Semi-colon separted commands have been implemented
+8. Semi-colon separated commands have been implemented
 
 9. Overkill : kills all the background process
 
@@ -40,6 +41,7 @@
 16. quit : Shell quits
 
 17. All piping commands,redirection and piping with redirection works
+
 
 ## FILES :
 
